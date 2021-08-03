@@ -1,6 +1,6 @@
-# DianoiaRNNS
+# DianoiaGSNN
 
-**DianoiaRNNS** is a **r**eal **n**eural **n**etwork **s**imulator. 
+**DianoiaGSNN** is a framework for Graph Spiking Neural Network. 
 
 It has not been registered yet. You may want to try it like below:
 
