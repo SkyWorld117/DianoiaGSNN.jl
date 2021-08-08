@@ -2,6 +2,8 @@
 
 **DianoiaGSNN** is a framework for Graph Spiking Neural Network. 
 
+Please notice it is still in basic developing process and is not fully functioning. 
+
 It has not been registered yet. You may want to try it like below:
 
 ```julia
